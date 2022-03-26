@@ -4,7 +4,7 @@
 
 You can build it for youself. [here is the source of the Vuln App](./src)
 
-Or you can use the release which built by cckuailong(Yh,it's me)
+Or you can use [the release which built by cckuailong(Yh,it's me)](https://github.com/cckuailong/spring-cloud-function-SpEL-RCE/releases/tag/untagged-e1c4060d01bbb4ddc6cf)
 
 ```
 java -jar function-sample-pojo-3.2.1.RELEASE.jar
