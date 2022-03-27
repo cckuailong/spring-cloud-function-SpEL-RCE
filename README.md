@@ -10,6 +10,8 @@ Or you can use [the release which built by cckuailong(Yh,it's me)](https://githu
 java -jar function-sample-pojo-3.2.1.RELEASE.jar
 ```
 
+P.S. test with Java17
+
 ## Poc
 
 ```
